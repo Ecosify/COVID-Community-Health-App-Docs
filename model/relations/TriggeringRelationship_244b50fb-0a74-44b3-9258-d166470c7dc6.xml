@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="If High-Risk"
+    id="244b50fb-0a74-44b3-9258-d166470c7dc6">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_7c170672-bfd8-4dc7-a85b-b4ccfd27cf55.xml#7c170672-bfd8-4dc7-a85b-b4ccfd27cf55"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_a0790d10-6ca2-4104-a392-ec73b7f252ce.xml#a0790d10-6ca2-4104-a392-ec73b7f252ce"/>
+</archimate:TriggeringRelationship>
