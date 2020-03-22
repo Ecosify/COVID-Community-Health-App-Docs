@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alarm"
+    id="440e978d-3d82-4224-bfc1-2c61376b5320">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_8e818eb6-898b-4da3-9c3a-b2f249a2f68a.xml#8e818eb6-898b-4da3-9c3a-b2f249a2f68a"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_cc5f0dbd-f1a6-42d7-9c50-90c89d7c84b2.xml#cc5f0dbd-f1a6-42d7-9c50-90c89d7c84b2"/>
+</archimate:AssociationRelationship>
