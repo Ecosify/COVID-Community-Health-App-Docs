@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="request_access"
+    id="d1ac9f0a-6496-4ab9-9fca-3699a19eef6d"
+    documentation="Generate Keys &amp; perform pre-activation activities&#xA;&#xA;Store attributes:&#xA;- data object identifier&#xA;- data object storage locations&#xA;- key activation date&#xA;- key size&#xA;- key mirroring settings&#xA;- key lifecycle settings (rollover, escrow, auto-destruction, etc.)&#xA;- key instance&#xA;- deletion permissions&#xA;- key authorization authority&#xA;- other attributes"/>
