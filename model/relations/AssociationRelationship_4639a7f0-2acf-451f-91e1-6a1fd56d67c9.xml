@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High-Risk Data"
+    id="4639a7f0-2acf-451f-91e1-6a1fd56d67c9">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_97cc2d80-fda8-49d8-a160-c544916bba11.xml#97cc2d80-fda8-49d8-a160-c544916bba11"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_83d5ba21-7f7e-41b3-b400-f0153daf0e72.xml#83d5ba21-7f7e-41b3-b400-f0153daf0e72"/>
+</archimate:AssociationRelationship>

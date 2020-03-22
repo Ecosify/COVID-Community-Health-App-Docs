@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geolocation"
+    id="a7bc4933-57d4-4dc4-bcd8-04869be053a0">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_d2881e3a-5269-486a-ae65-a4683758b9e7.xml#d2881e3a-5269-486a-ae65-a4683758b9e7"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_46d690a3-8706-458e-8d42-b267e899db29.xml#46d690a3-8706-458e-8d42-b267e899db29"/>
+</archimate:AssociationRelationship>

@@ -1,5 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="get_keys"
-    id="b33144bb-6730-4da2-94c9-e67c3d02c03b"
-    documentation="Provide access for:&#xA;- read&#xA;- process in place&#xA;- modify &amp;/| replace&#xA;- expire&#xA;- delete &amp;/| archive&#xA;"/>
